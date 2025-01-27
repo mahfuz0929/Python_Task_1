@@ -32,9 +32,12 @@ The **Weather Data Analysis Tool** is a Python application designed to analyze a
 
 5. **Data Visualization**
    - Provides ASCII-based visualizations:
-     - Line charts for temperature trends.
-     - Bar charts for daily rainfall.
-     - Summary tables showing monthly weather statistics.
+     - Line charts for temperature trends. ![Screenshot (19)](https://github.com/user-attachments/assets/fef9d83a-e3d1-49d9-b361-490b23077b7a)
+
+     - Bar charts for daily rainfall. ![Screenshot (20)](https://github.com/user-attachments/assets/51605a31-900e-401c-8aae-c0e13899b0c3)
+
+     - Summary tables showing monthly weather statistics. ![Screenshot (21)](https://github.com/user-attachments/assets/0cfa1722-a331-4ff5-9e94-6196a520e014)
+
 
 ### Advanced Features (Optional)
 1. **File Handling**
