@@ -56,7 +56,12 @@ The **Weather Data Analysis Tool** is a Python application designed to analyze a
      - View statistics for specific dates or ranges.
      - Generate ASCII-based visualizations.
      - Export reports.
+# Acknowledgements
+We appreciate your interest in the Weather Data Analysis Tool! This project was created to demonstrate the power of Python for data analysis and visualization, using only core libraries. We hope it serves as a valuable resource for learning and practical use.
 
+If you have any feedback, feature suggestions, or contributions, feel free to open an issue or submit a pull request. Together, we can make this tool even better!
+
+Thank you for using the Weather Data Analysis Tool! 😊
 ## How to Use
 
 1. Clone the repository:
